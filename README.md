@@ -7,7 +7,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/AstraaDev">
-    <img src="https://lanyard-profile-readme.vercel.app/api/464457105521508354"/>
+    <img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/464457105521508354?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/464457105521508354)"/>
      </a>
 </p>
 
