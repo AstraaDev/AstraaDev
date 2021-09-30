@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hi 👋, I'm Astraa</b><br>
+  <b>Hi, I'm Astraa !</b><br>
   <a href="https://discord.gg/pUZrFnabvd">Discord</a> |
   <a href="http://astraadev.club/">WebSite</a> |
   <a href="https://twitter.com/Kaneki_Web">Twitter</a>
