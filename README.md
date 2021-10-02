@@ -5,7 +5,7 @@
   <a href="https://twitter.com/Kaneki_Web">Twitter</a>
 </p>
 
-<p align="center"><br>
+<p align="right"><br>
   <a href="https://github.com/AstraaDev"></a>
 </p>
 
