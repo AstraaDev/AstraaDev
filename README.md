@@ -9,7 +9,7 @@
 - 🖥️ Frontend:
   - HTML
   - CSS
-  - Some Js
+  - Some Js...
 
 - 🛠 Backend:
   - Python
