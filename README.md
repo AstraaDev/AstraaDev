@@ -15,8 +15,6 @@
 </a>
 </p>
 
----  
-
 <br><br>
 <p align="center">
 	<b>Languages & Frameworks</b>
