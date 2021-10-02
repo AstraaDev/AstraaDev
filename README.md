@@ -4,7 +4,7 @@
 ---
 
 <a href="https://discord.com/users/464457105521508354">
-  <img src="https://lanyard-profile-readme.vercel.app/api/464457105521508354?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3"/></a>
+  <img src="https://lanyard-profile-readme.vercel.app/api/464457105521508354?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3" align="right" /></a>
 
 - 🖥️ Frontend:
   - HTML
