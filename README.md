@@ -29,7 +29,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstraaDev&count_private=true&langs_count=8&hide_border=true&theme=dark">
 </p>
 
- 
+<p>&nbsp;</p>   
 
 ---  
 
@@ -37,3 +37,5 @@
   Visit counter:</b><br><br>
   <img src="https://profile-counter.glitch.me/AstraaDev/count.svg" />
 </p>
+
+![Visitor Count](https://profile-counter.glitch.me/AstraaDev/count.svg)
