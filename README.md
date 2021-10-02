@@ -9,7 +9,7 @@
   <a href="https://github.com/AstraaDev"></a>
 </p>
 
-<center> [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/464457105521508354)](https://discord.com/users/464457105521508354) <\center>
+<center> [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/464457105521508354)](https://discord.com/users/464457105521508354) </center>
 
 <br><br>
 <p align="center">
