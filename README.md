@@ -1,5 +1,5 @@
 ### __🦖 Hey, I'm Astraa.__ 
-17, Young French Developper.
+Young French Developper.
 
 ---
 
