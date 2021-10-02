@@ -10,7 +10,7 @@
 </p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/464457105521508354)](https://discord.com/users/464457105521508354)
-
+ 
 <br><br>
 <p align="center">
 	<b>Languages & Frameworks</b>
