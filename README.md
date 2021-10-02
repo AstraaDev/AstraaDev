@@ -9,11 +9,6 @@
   <a href="https://github.com/AstraaDev"></a>
 </p>
 
-<p align="right">
-<a href="https://discord.com/users/464457105521508354">
-  <img src="https://lanyard-profile-readme.vercel.app/api/464457105521508354?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3"/></a>
-</p>
-
 <p align="left">
 	<b>Languages & Frameworks</b>
 	<br>
@@ -23,6 +18,12 @@
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
 </p>
+
+<p align="right">
+<a href="https://discord.com/users/464457105521508354">
+  <img src="https://lanyard-profile-readme.vercel.app/api/464457105521508354?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3"/></a>
+</p>
+
 <p align="center">
 	<b>My Github Stats</b><br>
     	<img src="https://github-readme-streak-stats.herokuapp.com/?user=AstraaDev&theme=dark&hide_border=true">
