@@ -9,7 +9,7 @@
   <a href="https://github.com/AstraaDev"></a>
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/464457105521508354?theme=dark&bg=11170d&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3)](https://discord.com/users/464457105521508354)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/464457105521508354?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3)](https://discord.com/users/464457105521508354)
 
 <br><br>
 <p align="center">
