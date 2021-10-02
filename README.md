@@ -1,28 +1,22 @@
-<p align='center'>
-  <b>Hi, I'm Astraa! 🦖</b><br>
-  <a href="https://discord.gg/pUZrFnabvd">Discord</a> |
-  <a href="http://astraadev.club/">WebSite</a> |
-  <a href="https://twitter.com/Kaneki_Web">Twitter</a>
-</p>
+### __👋 Hey, I'm Astraa.__ 
+17, Young French Developper.
 
-<p align="center"><br>
-  <a href="https://github.com/AstraaDev"></a>
-</p>
+---
 
-<p align="left">
-	<b>Languages & Frameworks</b>
-	<br>
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
-</p>
-
-<p align="right">
 <a href="https://discord.com/users/464457105521508354">
   <img src="https://lanyard-profile-readme.vercel.app/api/464457105521508354?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3"/></a>
-</p>
+
+- 🖥️ Frontend:
+  - HTML
+  - CSS
+  - Some Js
+
+- 🛠 Backend:
+  - Python
+  - C/C++
+  - PHP
+
+---  
 
 <p align="center">
 	<b>My Github Stats</b><br>
