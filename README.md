@@ -1,10 +1,5 @@
 ### __🦖 Hey, I'm Astraa.__ 
 17, Young French Developper.
-<p align='left'>
-  <a href="https://discord.gg/pUZrFnabvd">Discord</a> |
-  <a href="http://astraadev.club/">WebSite</a> |
-  <a href="https://twitter.com/Kaneki_Web">Twitter</a>
-</p>
 
 ---
 
