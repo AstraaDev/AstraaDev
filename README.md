@@ -16,7 +16,7 @@
   - C/C++
   - PHP
  
-I mostly do Python for fun :)
+-> I mostly do Python for fun :)
 
 ---  
 
