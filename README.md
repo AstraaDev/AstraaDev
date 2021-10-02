@@ -41,3 +41,5 @@
   Compteur de visites :<br>
   <img src="https://profile-counter.glitch.me/AstraaDev/count.svg" />
 </p>
+
+[![Hits](https://hits.link/hits?url=https://github.com/AstraaDev&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
