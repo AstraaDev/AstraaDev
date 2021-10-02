@@ -37,5 +37,3 @@
   Visit counter:</b><br><br>
   <img src="https://profile-counter.glitch.me/AstraaDev/count.svg" />
 </p>
-
-![Visitor Count](https://profile-counter.glitch.me/AstraaDev/count.svg)
