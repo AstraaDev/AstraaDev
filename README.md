@@ -33,7 +33,7 @@
 
 ---  
 
-<p align="center"> 
-  Visit counter:<br><br>
+<p align="center"><b> 
+  Visit counter:</b><br><br>
   <img src="https://profile-counter.glitch.me/AstraaDev/count.svg" />
 </p>
