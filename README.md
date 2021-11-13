@@ -1,39 +1,29 @@
-### __🦖 Hey, I'm Astraa.__ 
-Young French Developper.
+<a href="https://dsc.gg/astraadev" target="_blank"> <img src="https://cdn.discordapp.com/attachments/826581697436581919/909100319705821205/3C3877B9-52FE-420E-B168-86029BE2EA3D.jpg" alt="Rdimo's Github"/></a>
 
----
+<p align="center"><img src="https://gpvc.arturio.dev/AstraaDev" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Forks"></a>
+<p align="center"><a href="https://dsc.gg/astraadev" target="_blank"><img src="https://discordapp.com/api/guilds/869346091743707206/widget.png?style=shield" alt="shield.png"></a></p></p>
 
-<a href="https://discord.com/users/464457105521508354">
-  <img src="https://lanyard-profile-readme.vercel.app/api/464457105521508354?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3" align="right" /></a>
+```python
+print(f'Follow {astraadev} on Github')
+```
+# About Me:
 
-- 🖥️ Frontend:
+⌛️・Latest open source project [**AstraaHome**](https://github.com/AstraaDev/Discord-All-Tools-in-One) **-** [**DaihoTool**](https://github.com/AstraaDev/Daiho-Tool)
+
+📩・Any question? Add [**Astraa#1000**](https://discord.com/users/464457105521508354) on [**Discord**](https://dsc.gg/astraadev)</a>
+<a href="https://discord.com/users/464457105521508354" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/464457105521508354?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3" align="right" /></a></p>
+
+🖥️・**Frontend:**
   - HTML
   - CSS
   - Some Js...
 
-- 🛠 Backend:
+🛠・**Backend**:
   - Python
   - C/C++
   - PHP
  
--> I mostly do Python for fun :)
-
----  
-
-<p align="center">
-	<b>GitHub Stats:</b><br><br>
-    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=AstraaDev&theme=dark&hide_border=true&theme=dark">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=AstraaDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstraaDev&count_private=true&langs_count=8&hide_border=true&theme=dark">
-</p>
-
-<p>&nbsp;</p>   
-
----  
-
-<p align="center"><b> 
-  Visit counter:</b><br><br>
-  <img src="https://profile-counter.glitch.me/AstraaDev/count.svg" />
-</p>
+-> I mostly do Python for fun :)</a>
+<a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
