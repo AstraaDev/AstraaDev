@@ -13,7 +13,7 @@ print(f'Follow {astraadev} on Github')
 ⌛️・Latest open source project [**AstraaHome**](https://github.com/AstraaDev/Discord-All-Tools-in-One) **-** [**DaihoTool**](https://github.com/AstraaDev/Daiho-Tool)
 
 📩・Any question? Add [**Astraa#6100**](https://discord.com/users/464457105521508354) on [**Discord**](https://dsc.gg/astraadev)</a>
-<a href="https://discord.com/users/464457105521508354" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/464457105521508354?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3" align="right" /></a></p>
+<a href="https://discord.com/users/464457105521508354" target="_blank"></a></p>
 
 🖥️・**Frontend:**
   - HTML
