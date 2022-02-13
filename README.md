@@ -1,4 +1,4 @@
-<a href="https://dsc.gg/astraadev" target="_blank"> <img src="https://cdn.discordapp.com/attachments/826581697436581919/909100319705821205/3C3877B9-52FE-420E-B168-86029BE2EA3D.jpg" alt="Rdimo's Github"/></a>
+<a href="https://dsc.gg/astraadev" target="_blank"> <img src="https://cdn.discordapp.com/attachments/826581697436581919/909100319705821205/3C3877B9-52FE-420E-B168-86029BE2EA3D.jpg" alt="Astraa's Github"/></a>
 
 <p align="center"><img src="https://gpvc.arturio.dev/AstraaDev" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Stars"></a>
@@ -12,7 +12,7 @@ print(f'Follow {astraadev} on Github')
 
 ⌛️・Latest open source project [**AstraaHome**](https://github.com/AstraaDev/Discord-All-Tools-in-One) **-** [**DaihoTool**](https://github.com/AstraaDev/Daiho-Tool)
 
-📩・Any question? Add [**Astraa#1000**](https://discord.com/users/464457105521508354) on [**Discord**](https://dsc.gg/astraadev)</a>
+📩・Any question? Add [**Astraa#6100**](https://discord.com/users/464457105521508354) on [**Discord**](https://dsc.gg/astraadev)</a>
 <a href="https://discord.com/users/464457105521508354" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/464457105521508354?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3" align="right" /></a></p>
 
 🖥️・**Frontend:**
