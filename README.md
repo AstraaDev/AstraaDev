@@ -13,7 +13,7 @@ astraadev@github
 
        OS  :  nt10
        WM  :  vmware
-   Python  :  python 3.9.10
+   Python  :  python 3.9.12
 Languages  :  C, PHP, Python, Java, Batch
   Discord  :  464457105521508354
 ```
