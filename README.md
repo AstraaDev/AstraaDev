@@ -7,15 +7,16 @@
 print(f'Follow {astraadev} on Github')
 ```
 
-```csharp
-astraadev@github
-----------------
-
+```python
        OS  :  nt10
-       WM  :  vmware
    Python  :  python 3.9.12
 Languages  :  C, PHP, Python, Java, Batch
   Discord  :  464457105521508354
+   Server  :  869346091743707206
+```
+
+```json
+Knowledge is power.
 ```
 
 <a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
