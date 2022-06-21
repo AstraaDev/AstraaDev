@@ -19,4 +19,4 @@ Languages  :  C, PHP, Python, Java, Batch
 Knowledge is power.
 ```
 
-<a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
