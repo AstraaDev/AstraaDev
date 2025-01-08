@@ -22,7 +22,7 @@ _start:
 ```
 
 ```lua
-       OS  :  i3, macOS
+       OS  :  macOS
 Languages  :  C, ASM, Py
    Editor  :  VIM, forever and ever
 Debugging  :  Bit by bit, step by step
